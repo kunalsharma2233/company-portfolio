@@ -1,0 +1,13 @@
+Task-1
+-------
+
+1. Configure link symbol for
+all navbar components.
+2. pass it as props for each component.
+3. make navbar common for all.
+
+Task-2
+----------
+1. Make a common navbar react component
+so that only a place is needed to change.
+2. Make two div side by side
